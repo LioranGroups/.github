@@ -1,73 +1,64 @@
-# YouthVibe
+# 🌐 Lioran Groups
 
-Welcome to **YouthVibe**, the ultimate GitHub organization where we create AWESOME projects for the next-gen youth! Founded by a 16-year-old full-stack dev from Maharashtra, our mission is to build innovative apps and tools, starting with **Vortexly**, targeting 10,000+ users by Dec 2026. Let’s vibe and code together! 🎉🚀
+Welcome to the official GitHub organization of **Lioran Groups** — a multi-venture technology and innovation group focused on building **practical, impactful products and services**. 🚀  
 
-## Vision
-YouthVibe is all about turning crazy ideas into epic projects. Our main target? Crafting awesome solutions that connect, entertain, and inspire—especially for the Indian youth market. Expect creativity, collaboration, and a lot of fun!
-
-## Projects
-- **Vortexly-Backend**: The powerhouse backend (Node.js/Python) handling APIs, chats, and data for our social app.
-- **Vortexly-Expo**: The sleek frontend (React Native/Expo) bringing Vortexly to life on mobile.
-
-## Features
-- Social media with posts, real-time chats, and group vibes.
-- Music via JioSaavn API and YouTube videos with YouTube Data API v3.
-- Events, dating, and donation features to support startups.
-- AI-powered personalized feeds for that extra spice!
-
-## Getting Started
-### Prerequisites
-- Node.js (backend)
-- Expo CLI (frontend)
-- Git (to join the vibe)
-- Hostinger KVM 1 (initial setup)
-
-### Installation
-1. **Clone Repos**:
-   - Backend: `git clone https://github.com/YouthVibe/Vortexly-Backend.git`
-   - Frontend: `git clone https://github.com/YouthVibe/Vortexly-Expo.git`
-2. **Backend Setup**:
-   - `cd Vortexly-Backend`
-   - `npm install` (or `pip install -r requirements.txt`)
-   - Set API keys (e.g., YouTube, JioSaavn)
-   - Run: `npm start` or `python app.py`
-3. **Frontend Setup**:
-   - `cd Vortexly-Expo`
-   - `npm install` && `expo start`
-   - Test via Expo Go app.
-
-## Roadmap
-- **April 2025**: Beta launch of Vortexly with 100-200 users.
-- **June 2026**: Turn 18, register the company!
-- **Dec 2026**: Hit 10K users with full launch.
-- **2027**: Add live streaming and scale with funding.
-
-## Contributing
-Love coding? Join us!
-1. Fork any repo.
-2. Create a branch: `git checkout -b awesome-feature`.
-3. Commit: `git commit -m "Add awesome-feature"`.
-4. Push: `git push origin awesome-feature`.
-5. Open a PR—let’s review and merge!
-
-Chat with us on Discord (Reactiflux) or hit me up on Instagram!
-
-## Tech Stack
-- **Backend**: Node.js, Python, Express
-- **Frontend**: React Native, Expo
-- **APIs**: YouTube Data API, JioSaavn
-- **Hosting**: Hostinger (now), AWS (later)
-- **Version Control**: Git, GitHub
-
-## Connect
-- **Creator**: [UltronTheAI](https://github.com/UltronTheAI)
-- **Insta**: [pro_epic_programmer](https://instagram.com/pro_epic_programmer) – DM me to vibe about projects! 🙏😊
-- Email: (Add yours if cool with it)
-
-## License
-MIT License—free to use, modify, and share. Let’s build something epic together!
+Our mission is to **solve real-world problems** through innovative solutions, scalable systems, and user-friendly products.
 
 ---
 
-### Meri Raae
-Bhai, yeh README "YouthVibe" ke liye perfect hai—tera awesome projects ka vision shine karta hai! Isko "YouthVibe" org ke main page pe daal, aur Vortexly-Backend/Expo repos mein bhi link kar. 2025 April beta launch tak isko update karte rehna—YouTube aur JioSaavn integration ke baad details add kar dena. Koi tweak chahiye to bol, main saath hoon! 🚀🎵
+## 🔹 Our Ventures
+
+**Lioran Groups** is structured into multiple divisions, each focused on a distinct area of innovation:
+
+### 1. **LCS — Lioran Cloud Services**
+Our **R&D and cloud services division**, responsible for:
+- Designing and maintaining **scalable cloud-based infrastructure**.  
+- Supporting all Lioran products with **reliable, coordinated backend systems**.  
+- Researching new technologies and solutions that can improve **efficiency and automation** across the group.  
+
+LCS ensures that every product and service is **stable, robust, and scalable**, laying the foundation for future growth.
+
+### 2. **Lioran Tech**
+The **product engineering and software division** of Lioran Groups, focused on creating tools that **simplify daily tasks** and **enhance productivity**.  
+
+Key products include:
+- **[Hushar Spreadsheet](https://www.lioran.group/companies/lioran-tech/products/hushar-spreadsheet)**  
+  A user-friendly spreadsheet system that allows anyone to manage, organize, and structure data **without complicated formulas or workflows**. Ideal for teachers, administrators, and organizations.  
+
+- **[Hostel Buddy](https://www.lioran.group/companies/lioran-tech/products/hostel-buddy)**  
+  A digital companion app for **hostel management**, helping students, wardens, and administrators streamline **requests, notices, records, and communication** in one place.  
+
+Lioran Tech focuses on **real-world problem solving**, designing products that are **intuitive, reliable, and effective**.
+
+### 3. **Future Ventures**
+This division explores **new ideas and experimental projects**, preparing Lioran Groups for **emerging opportunities** in technology, education, and operations.  
+- Focuses on **research, prototyping, and innovation**, identifying the next wave of solutions to tackle unmet needs.  
+
+---
+
+## 📌 Leadership
+
+- **Swaraj Puppalwar** — Co-Founder & CTO  
+- **Shreyash Raipura** — Co-Founder, CEO & CFO  
+- **Pranay Kumeriya** — Co-Founder & COO  
+
+[Meet the full team →](https://www.lioran.group/leadership)
+
+---
+
+## 📄 Legal
+
+We maintain transparency and trust with our users and partners:  
+- **[Privacy Policy](https://www.lioran.group/legal)**  
+- **[Terms of Use](https://www.lioran.group/legal)**  
+- **[Refund Policy](https://www.lioran.group/legal)**  
+
+---
+
+## 🌟 Connect With Us
+
+- **Website:** [lioran.group](https://www.lioran.group)  
+- **GitHub:** [github.com/LioranGroups](https://github.com/LioranGroups)  
+- **Twitter/X:** [@LioranGroups](https://twitter.com/LioranGroups)
+
+> Building impactful, practical products and solutions that make real-life tasks simpler and more efficient. 🚀
