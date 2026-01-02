@@ -1,6 +1,6 @@
-# 🌐 Lioran Groups
+# 🌐 Lioran Group
 
-Welcome to the official GitHub organization of **Lioran Groups** — a multi-venture technology and innovation group focused on building **practical, impactful products and services**. 🚀  
+Welcome to the official GitHub organization of **Lioran Group** — a multi-venture technology and innovation group focused on building **practical, impactful products and services**. 🚀  
 
 Our mission is to **solve real-world problems** through innovative solutions, scalable systems, and user-friendly products.
 
@@ -8,7 +8,7 @@ Our mission is to **solve real-world problems** through innovative solutions, sc
 
 ## 🔹 Our Ventures
 
-**Lioran Groups** is structured into multiple divisions, each focused on a distinct area of innovation:
+**Lioran Group** is structured into multiple divisions, each focused on a distinct area of innovation:
 
 ### 1. **LCS — Lioran Cloud Services**
 Our **R&D and cloud services division**, responsible for:
@@ -19,7 +19,7 @@ Our **R&D and cloud services division**, responsible for:
 LCS ensures that every product and service is **stable, robust, and scalable**, laying the foundation for future growth.
 
 ### 2. **Lioran Tech**
-The **product engineering and software division** of Lioran Groups, focused on creating tools that **simplify daily tasks** and **enhance productivity**.  
+The **product engineering and software division** of Lioran Group, focused on creating tools that **simplify daily tasks** and **enhance productivity**.  
 
 Key products include:
 - **[Hushar Spreadsheet](https://www.lioran.group/companies/lioran-tech/products/hushar-spreadsheet)**  
@@ -31,7 +31,7 @@ Key products include:
 Lioran Tech focuses on **real-world problem solving**, designing products that are **intuitive, reliable, and effective**.
 
 ### 3. **Future Ventures**
-This division explores **new ideas and experimental projects**, preparing Lioran Groups for **emerging opportunities** in technology, education, and operations.  
+This division explores **new ideas and experimental projects**, preparing Lioran Group for **emerging opportunities** in technology, education, and operations.  
 - Focuses on **research, prototyping, and innovation**, identifying the next wave of solutions to tackle unmet needs.  
 
 ---
@@ -58,7 +58,7 @@ We maintain transparency and trust with our users and partners:
 ## 🌟 Connect With Us
 
 - **Website:** [lioran.group](https://www.lioran.group)  
-- **GitHub:** [github.com/LioranGroups](https://github.com/LioranGroups)  
-- **Twitter/X:** [@LioranGroups](https://twitter.com/LioranGroups)
+- **GitHub:** [github.com/LioranGroup](https://github.com/LioranGroup)  
+- **Twitter/X:** [@LioranGroup](https://twitter.com/LioranGroup)
 
 > Building impactful, practical products and solutions that make real-life tasks simpler and more efficient. 🚀
